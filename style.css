@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    width: 100%;
+      background: url("st.jpg") no-repeat;
+      background-size: cover;
+
+  }
+  .digital-clock{
+    color: rgb(227, 227, 227);
+    background-color: black;
+    font-size: 20px;
+    margin: auto;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    display: flex;
+  }
+p{
+    color: rgb(238, 255, 0);
+    font-size: 30px ;
+    font-family: inherit;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 290px;
+}
